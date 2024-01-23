@@ -1,0 +1,2 @@
+# Melbourne_house_price_prediction
+Description of the project: For the project, R was employed to perform data preprocessing and exploratory data analysis, including visualisation. Logistic Regression, KNN (K Nearest Neighbor Algorithm), and ANN (Artificial Neural Network) were applied to train a dataset of 48,000 houses. The analysis revealed that ANN achieved the highest accuracy (90%) and was identified as the most effective algorithm.
